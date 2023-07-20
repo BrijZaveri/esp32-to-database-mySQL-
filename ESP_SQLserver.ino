@@ -51,8 +51,10 @@ long decimalValue;
 // long SerialNumber;
 int remainingAh;
 
-const char* ssid = "WARDJOY";  //
-const char* password = "WaRd@2023#";
+// const char* ssid = "WARDJOY";  //
+// const char* password = "WaRd@2023#";
+const char* ssid = "WWBatt";  //
+const char* password = "Ward@2023bat";
 //const char* ssid = "Z";  //
 //const char* password = "123321123";
 //WiFiClient client;
