@@ -26,5 +26,5 @@ void send_hardware_serial_number_query()                                       /
   CAN.write(00);
   CAN.endPacket();
   //  Serial.println("done");
-  delay(10);
+  delay(3);
 }
